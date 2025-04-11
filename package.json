@@ -1,0 +1,15 @@
+{
+  "name": "formulario-cadastro",
+  "version": "1.0.0",
+  "description": "Projeto de formulário com validação em JavaScript e Node.js",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "Seu Nome",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
